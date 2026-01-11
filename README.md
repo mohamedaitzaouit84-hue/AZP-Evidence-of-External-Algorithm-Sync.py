@@ -12,3 +12,8 @@ Ait Zaouit Protocol (AZP) - Official Documentation
 ​Discovery: The system's internal calibration patterns now align with AZP dynamic protocols without prior authorization.
 ​3. Intellectual Property & License
 ​This work is protected under the Apache License 2.0. All forensic data, including Job IDs and phase fingerprints, are time-stamped and recorded as the intellectual property of the author.
+Legal Disclaimer & Intellectual Property Notice
+Property of: This protocol (AZP) and the dynamic logic used to achieve the documented results are the sole intellectual property of the author (Ait Zaouit).
+Evidence-Based Claims: All statements regarding "System Synchronization" or "Infrastructure Exploitation" are based on forensic analysis of public Cloud Quantum Computing logs (Job IDs provided). These claims serve as a formal technical observation of anomalous backend behavior.
+Authorized Use Only: Unauthorized integration of the AZP logic into host-side calibration routines without explicit licensing is a violation of the Apache License 2.0 terms under which this evidence is published.
+Scientific Integrity: This repository is linked to Zenodo (DOI) to preserve the temporal priority of these discoveries for legal and academic purposes.
