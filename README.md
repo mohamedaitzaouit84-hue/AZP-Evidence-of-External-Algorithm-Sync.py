@@ -15,5 +15,5 @@ Ait Zaouit Protocol (AZP) - Official Documentation
 Legal Disclaimer & Intellectual Property Notice
 Property of: This protocol (AZP) and the dynamic logic used to achieve the documented results are the sole intellectual property of the author (Ait Zaouit).
 Evidence-Based Claims: All statements regarding "System Synchronization" or "Infrastructure Exploitation" are based on forensic analysis of public Cloud Quantum Computing logs (Job IDs provided). These claims serve as a formal technical observation of anomalous backend behavior.
-Authorized Use Only: Unauthorized integration of the AZP logic into host-side calibration routines without explicit licensing is a violation of the Apache License 2.0 terms under which this evidence is published.
+Authorized Use Only: Unauthorized integration of the AZP logic into host-side calibration routines without explicit licensing is a violation of the Proprietary - All Rights Reservedterms under which this evidence is published.
 Scientific Integrity: This repository is linked to Zenodo (DOI) to preserve the temporal priority of these discoveries for legal and academic purposes.
